@@ -1,4 +1,4 @@
-<h2 align="left">É os Guri🇪🇪🥶</h2>
+<h2 align="left">É os Guri🥶</h2>
 
 ###
 
