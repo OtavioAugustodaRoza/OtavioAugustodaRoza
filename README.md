@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja muito bem-vindo ao meu perfil(:</h1>
+<h1 align="center">Olá, seja muito bem-vindo ao meu perfil (:</h1>
 
 ###
 
@@ -25,11 +25,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3lpZXlnOTAwdWNwZjNoeGozanNncnQyOWNwNHRlcms2OWd1N2g5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qUOrFkvibKLqU/giphy.gif"  />
+</div>
 
 ###
 
