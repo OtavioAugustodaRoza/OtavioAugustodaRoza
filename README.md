@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Otávio .</h2>
+<h2 align="left">Hi 👋! My name is Otávio</h2>
 
 ###
 
@@ -31,7 +31,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OtavioAugustodaRoza.OtavioAugustodaRoza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OtavioAugustodaRoza.OtavioAugustodaRoza" />
 </div>
-
-###
