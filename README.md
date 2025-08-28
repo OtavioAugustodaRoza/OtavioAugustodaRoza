@@ -1,43 +1,37 @@
-<h1 align="center">Olá, seja muito bem-vindo ao meu perfil (:</h1>
+<h2 align="left">Hi 👋! My name is Otávio .</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OtavioAugustodaRoza&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=OtavioAugustodaRoza&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAugustodaRoza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=OtavioAugustodaRoza&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAugustodaRoza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAugustodaRoza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OtavioAugustodaRoza.OtavioAugustodaRoza&"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3lpZXlnOTAwdWNwZjNoeGozanNncnQyOWNwNHRlcms2OWd1N2g5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qUOrFkvibKLqU/giphy.gif"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OtavioAugustodaRoza.OtavioAugustodaRoza&left_color=turquoise&right_color=turquoise"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
