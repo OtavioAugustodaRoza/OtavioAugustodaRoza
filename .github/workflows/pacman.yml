@@ -2,27 +2,27 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 🧩 Clonar repositório
+      - name: 📥 Clonar repositório
         uses: actions/checkout@v3
 
-      - name: 🎨 Gerar gráfico estilo Pacman
-        uses: yoshi389111/github-profile-pacman@main
+      - name: 🎮 Gerar gráfico estilo Pac-Man
+        uses: Platane/snk@v3
         with:
           github_user_name: OtavioAugustodaRoza
-          svg_out_path: dist/
-          color_body: '#000000'
-          color_eye: '#FFD700'
-          color_cake: '#00FFFF'
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: 📤 Fazer upload do resultado
+      - name: 🚀 Publicar resultado na branch output
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          publish_branch: output
