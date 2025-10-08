@@ -3,13 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css" height="70" />
 </div>
 
 ###
@@ -26,7 +20,7 @@
 
 ###
 
-<picture>
+<picture  >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
