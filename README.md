@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OtavioAugustodaRoza&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAugustodaRoza&locale=pt-br&hide_title=tru&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=fal&order=2" height="201" alt="languages graph" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAugustodaRoza&locale=pt-br&hide_title=tru&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=fal&order=2" height="200" alt="languages graph" /> 
 </div>
 
 ###
