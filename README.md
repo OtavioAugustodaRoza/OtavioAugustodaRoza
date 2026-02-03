@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwindcss" height="70" />
+<img src="https://skillicons.dev/icons?i=js,python" height="70" />
 </div>
 
 ###
