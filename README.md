@@ -22,8 +22,8 @@
 ###
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="400px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=tokyonight" height="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="300px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=tokyonight" height="300"/>
 </div>
 
 ###
