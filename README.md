@@ -1,43 +1,65 @@
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=70A5FD"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=70A5FD&fontColor=FFFFFF" />
 </div>
-
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Otávio;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+in+training;Be+Welcome!)](https://git.io/typing-svg)
-
-###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,python" height="70" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Otávio+;16+y/o+Dev+from+Joinville,+SC;Studying+at+IFC+Araquari;Building+things+with+React+%26+Python;Always+learning,+always+shipping." />
+  </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,vite,tailwind,html,css" height="45" />
 </div>
 
-###
+<br/>
+
+---
+
+##  Sobre mim
+```yaml
+name: Otávio Augusto da Roza
+age: 16
+location: Joinville, SC — Brasil
+school: IFC Campus Araquari
+focus: Web Development & Python
+currently_learning: [React, APIs REST, ]
+looking_for: First opportunity as a dev
+```
+
+---
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="300px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=tokyonight" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAugustodaRoza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugustodaRoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=OtavioAugustodaRoza&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-<picture  >
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OtavioAugustodaRoza&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="180"/>
+ 
+</div>
+
+---
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
+---
+
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=70A5FD"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=70A5FD" />
 </div>
-
-###
