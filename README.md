@@ -44,10 +44,7 @@ looking_for: First opportunity as a dev
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OtavioAugustodaRoza&theme=tokyonight" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="180"/>
- 
-</div>
+
 
 ---
 
