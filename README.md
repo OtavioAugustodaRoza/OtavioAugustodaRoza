@@ -24,8 +24,8 @@ name: Otávio Augusto da Roza
 age: 16
 location: Joinville, SC — Brasil
 school: IFC Campus Araquari
-focus: Web Development & Python
-currently_learning: [React, APIs REST, ]
+focus: Web Development 
+currently_learning: [React, APIs REST, c# ]
 looking_for: First opportunity as a dev
 ```
 
