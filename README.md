@@ -18,7 +18,7 @@
 
 ---
 
-##  Sobre mim
+##   About me 
 ```yaml
 name: Otávio Augusto da Roza
 age: 16
