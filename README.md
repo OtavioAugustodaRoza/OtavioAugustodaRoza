@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css" height="45" />
 </div>
 
 <br/>
@@ -29,11 +29,10 @@ currently_learning: [React, APIs REST, c# ]
 looking_for: First opportunity as a dev
 ```
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OtavioAugustodaRoza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugustodaRoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugustodaRoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>  
 </div>
 
 <div align="center">
@@ -41,12 +40,11 @@ looking_for: First opportunity as a dev
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OtavioAugustodaRoza&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAugustodaRoza&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph-dark.svg">
@@ -54,7 +52,6 @@ looking_for: First opportunity as a dev
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioAugustodaRoza/OtavioAugustodaRoza/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
----
 
 
 <div>
