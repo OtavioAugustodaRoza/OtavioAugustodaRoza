@@ -26,7 +26,6 @@ location: Joinville, SC — Brasil
 school: IFC Campus Araquari
 focus: Web Development 
 currently_learning: [React]
-looking_for: First opportunity as a dev
 ```
 
 
