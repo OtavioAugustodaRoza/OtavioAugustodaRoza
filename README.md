@@ -25,7 +25,7 @@ age: 16
 location: Joinville, SC — Brasil
 school: IFC Campus Araquari
 focus: Web Development 
-currently_learning: [React, APIs REST, c# ]
+currently_learning: [React]
 looking_for: First opportunity as a dev
 ```
 
