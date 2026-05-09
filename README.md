@@ -31,7 +31,7 @@ currently_learning: [React]
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="400" width="auto"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=dark" height="400" width="auto"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=tokyonight" height="400" width="auto"/>
 </div>
 
 <div align="center">
