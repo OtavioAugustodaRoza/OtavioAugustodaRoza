@@ -30,8 +30,8 @@ currently_learning: [React]
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAugustodaRoza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugustodaRoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioAugustodaRoza&theme=tokyonight" height="400" width="auto"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioAugustodaRoza&theme=dark" height="400" width="auto"/>
 </div>
 
 <div align="center">
